@@ -5,14 +5,14 @@
   MadCap:translationStatus="untranslated">
   <file
     xml:space="preserve"
-    original="NewTopic.htm"
+    original="NewTopic2.htm"
     source-language="en-us"
     MadCap:file-filter=""
     datatype="xhtml"
     target-language="es">
     <header>
       <skl><external-file
-          href="NewTopic.htm.skl" /></skl>
+          href="NewTopic2.htm.skl" /></skl>
       <phase-group>
         <phase
           phase-name="translation"
@@ -37,9 +37,9 @@
           unit="trans-unit">0</count>
       </count-group>
       <tool
-        tool-id="MadCap Lingo 10"
+        tool-id="MadCap Lingo 11 r2"
         tool-name="Lingo"
-        tool-version="10.1.6367.6648"
+        tool-version="11.1.7495.31419"
         tool-company="MadCap Software" />
     </header>
     <body><trans-unit
